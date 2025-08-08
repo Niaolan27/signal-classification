@@ -1,0 +1,4 @@
+
+# Data directories to ignore
+testing/
+training/
